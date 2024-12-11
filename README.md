@@ -1,9 +1,10 @@
 ## Hi there 👋
 
-<img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;***About me***
-Soy estudiante de licensiatura en sistemas, actualmente a mitad de carrera.
-Estoy ampliando mi conocimiento tanto en back-end como front-end. 
-Siempre estoy aprendiendo tecnologias que me ayuden a crecer como desarrollador y seguir mejorando.
+<img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;
+***About me***
+I am a bachelor's degree student in systems, currently in the middle of my degree.
+I am expanding my knowledge in both back-end and front-end. 
+I am always learning technologies that help me grow as a developer and continue improving.
 
 - 🌱 I’m currently learning...
   - Spring Security, Oauth2

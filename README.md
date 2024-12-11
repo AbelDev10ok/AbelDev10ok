@@ -27,6 +27,7 @@ Here are some ideas to get you started:
 ## Frameworks and Libreras 
 <h4> Other Tools and Technologies </h4>
 <span>
+  ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
   <img  alt="spring" src ="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white"/>
 </span>
 

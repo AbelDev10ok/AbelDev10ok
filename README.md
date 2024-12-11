@@ -30,11 +30,16 @@ Here are some ideas to get you started:
   <img  alt="spring" src ="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white"/>
 </span>
 
+<h4> Tools </h4>
+<span>
+  <img alt="TailwindCSS" src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white">
+</span>
+
+
 <h4>Technologies currently using</h4>
-<div>
-  <img  alt="TailwindCSS" src ="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white"/>
+<span>
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
-</div>
+</span>
 
 ## Databases
 <h4> Databases </h4>

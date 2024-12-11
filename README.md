@@ -6,11 +6,10 @@ Estoy ampliando mi conocimiento tanto en back-end como front-end.
 Siempre estoy aprendiendo tecnologias que me ayuden a crecer como desarrollador y seguir mejorando.
 
 - 🌱 I’m currently learning...
-  - Spring Security
-  - Oauth2
+  - Spring Security, Oauth2
   - English
 - 👯 I’m looking to collaborate on open source proyects...
-- 📫 How to reach me: <a href="valenwerlecontacto@gmail.com">valenwerlecontacto@gmail.com</a>
+- 📫 How to reach me: <a href="abel.alarcon.dev@gmail.com">abel.alarcon.dev@gmail.com</a>
 
 ## My Skills Include
 

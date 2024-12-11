@@ -1,7 +1,6 @@
 ## Hi there 👋
 
-<img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;
-- ***About me***
+<img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;***About me***
 I am a bachelor's degree student in systems, currently in the middle of my degree.
 I am expanding my knowledge in both back-end and front-end. 
 I am always learning technologies that help me grow as a developer and continue improving.

@@ -27,8 +27,8 @@ Here are some ideas to get you started:
 ## Frameworks and Libreras 
 <h4> Other Tools and Technologies </h4>
 <span>
-  <img src="https://img.shields.io/badge/React-Ts-00000F?style=for-the-b">
-  <img src="https://img.shields.io/badge/SpringBoot?style=for-the-badge&logo=mysql&logoColor=white">
+  ![spring](https://img.shields.io/badge/spring-6DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
+  ![react](https://img.shields.io/badge/react.js-61DAFB.svg?style=for-the-badge&logo=react&logoColor=black)
   <img  alt="spring" src ="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white"/>
 </span>
 
